@@ -10,6 +10,6 @@ public class App {
 
     public static void main(String[] args) {
         WorldTime tmp = new WorldTime();
-        tmp.getTimeByCountry("Japan");
+        System.out.println(tmp.getTimeByCountry("Japan"));
     }
 }

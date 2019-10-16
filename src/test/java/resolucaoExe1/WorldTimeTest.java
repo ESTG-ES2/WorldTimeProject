@@ -5,10 +5,8 @@ package resolucaoExe1;
 
 import WorldTime.WorldTime;
 import org.junit.jupiter.api.*;
-import org.joda.time.LocalTime;
-import org.joda.time.DateTime;
 import org.joda.time.*;
-import org.joda.time.DateTimeZone;
+
 
 public class WorldTimeTest {
 	private WorldTime wt;
